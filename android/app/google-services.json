@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31264140213",
+    "project_id": "receipeapp-d0945",
+    "storage_bucket": "receipeapp-d0945.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31264140213:android:1edd77888ffac8709f47fc",
+        "android_client_info": {
+          "package_name": "com.example.receipeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVgUmz9ooMWWRoTetFsqwuB64pYJp4uNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
